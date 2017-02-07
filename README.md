@@ -35,3 +35,5 @@ https://github.com/huntrar/scrape
 https://github.com/timClicks/slate
 
 **Nota:** O `lxml` deu erro de instalação no Python 3.6.
+
+*Renda Fixa*
